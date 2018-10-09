@@ -13,6 +13,7 @@ Here is a curated list of links I've found to be helpful
 
 ### Software Packages
 
+
 - [SDR# aka SDRSharp](https://airspy.com/download/): Software used to demodulate signals recieved
     from an SDR.
 - [GOESTools](https://pietern.github.io/goestools/index.html)
@@ -25,13 +26,15 @@ Here is a curated list of links I've found to be helpful
 
 ### Youtube Videos
 
-- [Thought Emporium - "How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT"](https://youtu.be/jGWFg7EDnyY): This video has a good rollup of links in the description.
+
+- [Thought Emporium - "How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT"](https://youtu.be/jGWFg7EDnyY) This video has a good rollup of links in the description.
 - [Scott Chapman - "LilacSat-1 Satellite Camera Image Decode :: 08-July-2017"](https://youtu.be/jJe0ujEEKPE)
 - [Giuseppe IT9YBG - "Tutorial MeteorGIS"](https://youtu.be/1xLo3uQqwFA)
 - [Christoph Honal - "Weather satellite Meteor-M2 LRPT signal decoding"](https://youtu.be/FUvuu0V6jJI)
 - [max30max31 - "IZ5RZR - How to receive Meteor M2 Satellite"](https://youtu.be/dcg6QdN4XPY)
 
 ### Tutorials
+
 
 - [GOES Tools - A minimal LRIT/HRIT receiver](https://pietern.github.io/goestools/guides/minimal_receiver.html)
 - [GOES Satellite Hunt (Part 1 – Antenna System)](https://www.teske.net.br/lucas/2016/10/goes-satellite-hunt-part-1-antenna-system/): October 2016.
