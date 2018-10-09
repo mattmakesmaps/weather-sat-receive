@@ -25,7 +25,7 @@ Here is a curated list of links I've found to be helpful
 
 ### Youtube Videos
 
-- [Thought Emporium - "How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT"](https://youtu.be/jGWFg7EDnyY) This video has a good rollup of links in the description.
+- [Thought Emporium - "How to Receive Beautiful Images of the Earth Directly From Space | GOES-15,16,17 and Himawari 8 HRIT"](https://youtu.be/jGWFg7EDnyY): This video has a good rollup of links in the description.
 - [Scott Chapman - "LilacSat-1 Satellite Camera Image Decode :: 08-July-2017"](https://youtu.be/jJe0ujEEKPE)
 - [Giuseppe IT9YBG - "Tutorial MeteorGIS"](https://youtu.be/1xLo3uQqwFA)
 - [Christoph Honal - "Weather satellite Meteor-M2 LRPT signal decoding"](https://youtu.be/FUvuu0V6jJI)
