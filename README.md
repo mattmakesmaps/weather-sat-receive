@@ -23,6 +23,10 @@ Here is a curated list of links I've found to be helpful
     verified works on Windows 10.
 - [OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject):
     Don't really know what this project does yet.
+- [HRPT Decoder](https://tynet.eu/hrpt-decoder): This looks to be a QT based desktop app for decoding HRPT signals from NOAA 18/19 Meteor-B etc. These scripts are designed to be run after capturing signals as a WAV file or some other audio format.
+- [HRPT Decoder By Peter Koistra](https://tynet.eu/hrpt-decoders-by-peter-koistra) Hosted on the same site as the HRPT Decoder
+linked above. These are a different set of scripts designed to be run in the GNU radio tool, and can be used to process signals
+in realtime.
 
 ### Youtube Videos
 
