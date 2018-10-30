@@ -34,3 +34,28 @@ ethernet connection attached to a switch going into my router.
 ## Signal Check A GOES Satellite
 
 ## Receive and Process Images
+
+# Log
+
+## 20181029
+
+Successful signal check 1692.7 MHz.
+
+Had that classic Plateau look to it.
+
+Bandwidth less then 28 kHz wide.
+
+I think that this signal is from the [NOAA EMWIN](http://www.nws.noaa.gov/emwin/EMWINFAQ.htm) system.
+
+NOTE regarding LNAs: The LNAs I currently have do not appear to be helping. I could only see the EMWIN
+signal after disconnecting both LNAs in between the antenna and the GOES Sawbird Chip as well as between
+the sawbird and the SDR.
+
+Antenna --> LNA --> Sawbird --> LNA --> SDR == No Signal.
+
+Antenna --> LNA --> Sawbird --> SDR == No signal.
+
+Antenna --> Sawbird --> LNA --> SDR couldn't be tested as I couldn't get power to the sawbird while it was
+connected directly to the antenna (obstructed usb mini port for power).
+
+Was **unable** to see signal at expected LRIT frequency of 1691.0 MHz.
