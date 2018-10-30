@@ -1,10 +1,10 @@
 # NOAA GOES
 
-# Objective
+## Objective
 
 Receive full disk images from the NOAA GOES System.
 
-# Experiment Phases
+## Experiment Phases
 
 1) Assemble Receiver Box
 2) Assemble Antenna
@@ -12,11 +12,15 @@ Receive full disk images from the NOAA GOES System.
 4) Signal Check A GOES Satellite
 5) Receive and Process Images
 
-## Assemble Receiver Box
+### Assemble Receiver Box
 
-## Assemble Antenna
+TODO
 
-## Raspberry Pi Configuration
+### Assemble Antenna
+
+TODO
+
+### Raspberry Pi Configuration
 
 One objective is to connect to the Pi over SSH from multiple host computers
 via direct ethernet connection. For example, in the field, I'd like to connect
@@ -31,13 +35,17 @@ cable over the address `raspberrypi.local` e.g. `ssh pi@rasbperrypi.local`.
 Note that this doesn't appear to work when simply hooking the Pi onto an
 ethernet connection attached to a switch going into my router.
 
-## Signal Check A GOES Satellite
+### Signal Check A GOES Satellite
 
-## Receive and Process Images
+TODO
 
-# Log
+### Receive and Process Images
 
-## 20181029
+TODO
+
+## Log
+
+### 20181029
 
 Successful signal check 1692.7 MHz.
 
