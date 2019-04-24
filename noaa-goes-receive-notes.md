@@ -4,7 +4,7 @@
 
 Receive full disk images from the [NOAA GOES Network](https://www.nasa.gov/content/goes-overview/index.html).
 
-From my location in Seattle, WA, I'm specifically trying to catch signals from GOES-15 and GOES-17.
+From my location in [Seattle, WA, USA](https://www.openstreetmap.org/#map=11/47.6500/-122.3000) I'm specifically trying to catch signals from GOES-15 and GOES-17.
 
 ### Current Hardware
 
@@ -35,7 +35,7 @@ My general hardware setup is as follows:
 
 I had first attempted to connect the SDR directly to the RaspberryPi for processing using `goesrecv` (part of the `goestools` suite).
 
-However, from my location in Seattle, Washington, USA, I was consistently getting Viterbi values of ~2000, which indicates no signal according to the `goestools` [tutorial](https://pietern.github.io/goestools/guides/minimal_receiver.html#software).
+However, from my location in [Seattle, Washington, USA](https://www.openstreetmap.org/#map=11/47.6500/-122.3000), I was consistently getting Viterbi values of ~2000, which indicates no signal according to the `goestools` [tutorial](https://pietern.github.io/goestools/guides/minimal_receiver.html#software).
 
 In an attempt to simplify my problem space, I removed `goestools` and the Pi from my setup, and directly connected the SDR to my laptop. From there I could visualize the signal waterfall using SDR#.
 
