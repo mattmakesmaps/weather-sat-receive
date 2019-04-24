@@ -5,7 +5,8 @@ This site is a collection of notes on recieving weather satellite images using a
 My notes can be found here:
 
 - [NOAA APT](noaa-apt.md)
-- [NOAA GOES](noaa-goes.md)
+- [NOAA GOES (Larger Backlog)](noaa-goes.md)
+- [NOAA GOES (Focusing on Signal Reception)](noaa-goes-recieve-notes.md)
 
 Here is a curated list of links I've found to be helpful
 
